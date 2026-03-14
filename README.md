@@ -16,7 +16,7 @@ Launcher Spotify pour windows permettant de lancer ses playlists rapidement avec
 
 1. **Cloner le dépôt**
 	```bash
-	git clone https://github.com/lemoonsieurhan/spotify-launcher.git
+	git clone https://github.com/lemoonsieurhan/lanceur_de_playlists_spotify-
 	cd spotify-launcher
 	```
 2. **Installer Python**
